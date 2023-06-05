@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HTML5,CSS,JS**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mstfablt1905@icloud.com**
 
